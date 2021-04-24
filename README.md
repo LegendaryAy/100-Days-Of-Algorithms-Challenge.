@@ -4,4 +4,4 @@
        Day-2-"Reversed Sequence" & "Which are in"
        Day-3-"Persistent Bugger" & "String repeat"
        Day-4-"Find the unique number" & "Count the Digit" 
-       Day-4-"Reverse or rotate?" & "Sum of angles"  
+       Day-5-"Reverse or rotate?" & "Sum of angles"  
