@@ -5,3 +5,4 @@
        Day-3-"Persistent Bugger" & "String repeat"
        Day-4-"Find the unique number" & "Count the Digit" 
        Day-5-"Reverse or rotate?" & "Sum of angles"  
+       Day-5-"Counting Duplicates" & "Sum Mixed Array"   
