@@ -6,4 +6,4 @@
        Day-4-"Find the unique number" & "Count the Digit" 
        Day-5-"Reverse or rotate?" & "Sum of angles"  
        Day-6-"Counting Duplicates" & "Sum Mixed Array"   
-       Day-6-"Difference of Volumes of Cuboids" & "Best Travel"   
+       Day-7-"Difference of Volumes of Cuboids" & "Best Travel"   
