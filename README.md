@@ -7,3 +7,4 @@
        Day-5-"Reverse or rotate?" & "Sum of angles"  
        Day-6-"Counting Duplicates" & "Sum Mixed Array"   
        Day-7-"Difference of Volumes of Cuboids" & "Best Travel"   
+       Day-8-"Don't give me five!" & "Numbers with this digit inside"   
