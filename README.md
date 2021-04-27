@@ -8,3 +8,4 @@
        Day-6-"Counting Duplicates" & "Sum Mixed Array"   
        Day-7-"Difference of Volumes of Cuboids" & "Best Travel"   
        Day-8-"Don't give me five!" & "Numbers with this digit inside"   
+       Day-9-"Disemvowel Trolls" & "Moves in squared strings (I)"   
