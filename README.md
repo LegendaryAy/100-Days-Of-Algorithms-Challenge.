@@ -10,3 +10,4 @@
        Day-8-"Don't give me five!" & "Numbers with this digit inside"   
        Day-9-"Disemvowel Trolls" & "Moves in squared strings (I)"  
        Day-10-"Mumbling" & "Century From Year"  
+       Day-11-"Calculate BMI" & "Financing a purchase"   
