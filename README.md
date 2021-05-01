@@ -12,4 +12,4 @@
        Day-10-"Mumbling" & "Century From Year"  
        Day-11-"Calculate BMI" & "Financing a purchase"
        Day-12-"Binary Gap" & "Cyclic Rotation"
-       Day-12-"Highest and Lowest" & "Odd Or Even?"
+       Day-13-"Highest and Lowest" & "Odd Or Even?"
