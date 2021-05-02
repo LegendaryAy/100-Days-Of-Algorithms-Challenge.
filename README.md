@@ -13,3 +13,4 @@
        Day-11-"Calculate BMI" & "Financing a purchase"
        Day-12-"Binary Gap" & "Cyclic Rotation"
        Day-13-"Highest and Lowest" & "Odd Or Even?"
+       Day-14-"Playing with Digits" & "Hidden Cubic Numbers"
